@@ -31,7 +31,7 @@
   
 #### Contact
 <div>
-<a href="https://instagram.com/caetano.maldaner" target="_blank">
+<a href="https://instagram.com/cae.maldaner" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
